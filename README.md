@@ -1,10 +1,2 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on ... A Saving App
-- 🌱 I’m currently learning ... React Library
-- 👯 I’m looking to collaborate on ... A Game
-- 🤔 I’m looking for help with ... Finding a Job
-- 💬 Ask me about ... Data Structure
-- 📫 How to reach me: ... locbgiang@gmail.com 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am Vietnamese
+I am a web developer, I can code in Javascript, Python, C, C++, Java.  
